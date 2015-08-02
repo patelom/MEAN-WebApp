@@ -10,38 +10,38 @@ angular.module('core').controller('HomeController', ['$scope', 'Authentication',
 			{
 				icon: 'glyphicon-user',
 				colour:'btn-success',
-				total:'20,408',
-				description:'TOTAL CUSTOMERS'
+				total:'A',
+				description:'Grid'
 			},
 			{
 				icon:'glyphicon-calendar',
 				colour:'btn-primary',
-				total:'8,382',
-				description:'UPCOMING EVENTS'
+				total:'B',
+				description:'Grid'
 			},
 			{
 				icon:'glyphicon-edit',
 				colour:'btn-success',
-				total:'527',
-				description:'NEW CUSTOMERS IN 24H'
+				total:'C',
+				description:'Grid'
 			},
 			{
 				icon:'glyphicon-record',
 				colour:'btn-info',
-				total:'85,000',
-				description:'EMAILS SENT'
+				total:'D',
+				description:'Grid'
 			},
 			{
 				icon:'glyphicon-eye-open',
 				colour:'btn-warning',
-				total:'268',
-				description:'FOLLOW UP REQUIRED'
+				total:'E',
+				description:'Grid'
 			},
 			{
 				icon:'glyphicon-flag',
 				colour:'btn-danger',
-				total:'348',
-				description:'REFERRALS TO MODERATE'
+				total:'F',
+				description:'Grid'
 			}
 
 		];
